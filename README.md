@@ -1,5 +1,5 @@
 # Payment Gateway integration in Django
-Major payment gateways, integrated in Django. Check the [Gateways Done](#gateways-done).
+Major payment gateways, integrated in Django.
 
 ## Requirements -
  - Python and Django 3.0
