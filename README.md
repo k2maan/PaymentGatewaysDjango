@@ -6,3 +6,4 @@ Major payment gateways, integrated in Django.
  
 ## Gateways Done -
  - [Paypal - Donation Page](https://github.com/k2maan/PaymentGatewaysDjango/tree/master/paypal-donation)
+ - [Razorpay - Buy me a coffee Page](https://github.com/k2maan/PaymentGatewaysDjango/tree/master/razorpay)
