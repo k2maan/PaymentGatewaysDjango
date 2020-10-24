@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<head>
+    <style>
+        .center {
+            position: absolute;
+            text-align: center;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="center">
+        <h3>
+            Thanks, You are aweseome! <i class="fas fa-check-circle"></i>
+        </h3>
+        <h5>
+            <a href="http://127.0.0.1:8000/">
+                Again?
+            </a>
+        </h5>
+    </div> 
+</body>
+
+{% endblock content %}
